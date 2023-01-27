@@ -19,7 +19,7 @@ setTimeout(() => {document.addEventListener('keydown', e =>{
       e.preventDefault()
   }
   if(e.keyCode ===78){
-    console.log("sad"); 
+   window.open("https://i.ytimg.com/vi/hZpdMOMip2E/maxresdefault.jpg"); 
       e.preventDefault()
   }
 
