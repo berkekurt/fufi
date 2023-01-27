@@ -15,7 +15,7 @@ function myFunction() {
 setTimeout(() => {document.addEventListener('keydown', e =>{
   console.log(e)
   if(e.keyCode ===89){
-    window.open("https://www.w3schools.com"); 
+    window.open("https://discord.gg/RPBW66CC"); 
       e.preventDefault()
   }
   if(e.keyCode ===78){
